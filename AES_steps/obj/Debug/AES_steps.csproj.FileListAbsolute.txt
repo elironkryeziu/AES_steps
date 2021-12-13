@@ -1,0 +1,11 @@
+C:\Users\Eliron\Desktop\AES_steps\AES_steps\bin\Debug\AES_steps.exe.config
+C:\Users\Eliron\Desktop\AES_steps\AES_steps\bin\Debug\AES_steps.exe
+C:\Users\Eliron\Desktop\AES_steps\AES_steps\bin\Debug\AES_steps.pdb
+C:\Users\Eliron\Desktop\AES_steps\AES_steps\obj\Debug\AES_steps.csproj.AssemblyReference.cache
+C:\Users\Eliron\Desktop\AES_steps\AES_steps\obj\Debug\AES_steps.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eliron\Desktop\AES_steps\AES_steps\obj\Debug\AES_steps.Properties.Resources.resources
+C:\Users\Eliron\Desktop\AES_steps\AES_steps\obj\Debug\AES_steps.csproj.GenerateResource.cache
+C:\Users\Eliron\Desktop\AES_steps\AES_steps\obj\Debug\AES_steps.csproj.CoreCompileInputs.cache
+C:\Users\Eliron\Desktop\AES_steps\AES_steps\obj\Debug\AES_steps.exe
+C:\Users\Eliron\Desktop\AES_steps\AES_steps\obj\Debug\AES_steps.pdb
+C:\Users\Eliron\Desktop\AES_steps\AES_steps\obj\Debug\AES_steps.AES_steps.resources
